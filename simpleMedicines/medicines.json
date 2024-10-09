@@ -1,0 +1,654 @@
+{
+  "credit": "Data ini dikumpulkan secara manual berdasarkan data dari referensi yang tercantum dalam 'reference' pada tahun 2024. Jika ada data yang salah atau kedaluwarsa, silakan kunjungi situs referensi yang tercantum.",
+  "data": [
+    {
+      "id": 1,
+      "name": "Cetirizine",
+      "image": "https://res-3.cloudinary.com/dk0z4ums3/image/upload/c_scale,h_500,w_500/v1/production/pharmacy/products/1669888733_cetirizine_10_mg",
+      "detail": "Cetirizine biasanya digunakan untuk mengatasi kondisi akibat alergi Biduran, Rhinitis alergi, Konjungtivitis alergi, Gatal-gatal atau pruritus, Angioedema, dan Reaksi anafilaksis. Selain itu, cetirizine juga dapat digunakan untuk mengatasi gejala rhinitis atau batuk pilek yang tidak disebabkan oleh alergi, maupun sebagai obat darah manis.\nPerlu diketahui bahwa cetirizine tidak bisa menyembuhkan alergi. Cara terbaik untuk mencegah timbulnya reaksi alergi adalah dengan menghindari paparan zat pemicu alergi.",
+      "benefit": "Meredakan gejala alergi",
+      "groups": "Obat Resep",
+      "category": [
+        "Antihistamin"
+      ],
+      "consumed": "Dewasa dan anak usia ≥2 tahun",
+      "form": [
+        "Tablet",
+        "Kaplet",
+        "Kapsul",
+        "Sirop",
+        "Kaplet salut selaput",
+        "Tablet salut selaput",
+        "drops (tetes)"
+      ],
+      "forMother": {
+        "pregnant": "Jika Anda sedang hamil, sebaiknya tetap konsultasikan dengan dokter mengenai penggunaan obat ini.",
+        "breastfeeding": "Jika Anda sedang menyusui, konsultasikan dengan dokter sebelum mengonsumsi cetirizine."
+      },
+      "trademark": [
+        "Alerzin",
+        "Cerini",
+        "Cetzin",
+        "Hufarizine",
+        "Ryvel",
+        "Ritez",
+        "Simzen",
+        "Zine",
+        "Allerzen",
+        "Cetirizine Dexa Medica",
+        "Cetirizine Hexpharm",
+        "Cetirizine Novell",
+        "Cetirizine Nulab",
+        "Cetymin",
+        "Estin",
+        "Falergi",
+        "Gentrizin",
+        "Histrine",
+        "Incidal-OD",
+        "Lerzin",
+        "Ozen",
+        "Prosix",
+        "Rydian",
+        "Risina",
+        "Tiriz",
+        "Trisela"
+      ],
+      "beforeConsuming": {
+        "detail": "Cetirizine merupakan obat yang perlu dikonsumsi sesuai dengan resep dokter.",
+        "point": [
+          "Jangan mengonsumsi cetirizine jika Anda alergi terhadap obat ini. Beri tahu dokter jika Anda alergi terhadap hydroxyzine atau levocetirizine.",
+          "Konsultasikan dengan dokter sebelum menggunakan cetirizine jika Anda mengalami biduran yang warnanya tidak biasa, melepuh atau terlihat memar, atau tidak terasa gatal.",
+          "Beri tahu dokter jika Anda pernah atau sedang menderita pembesaran prostat jinak, kesulitan buang air kecil, penyakit ginjal, penyakit liver, atau diabetes.",
+          "Beri tahu dokter jika Anda mengonsumsi obat-obatan lain, termasuk suplemen atau produk herbal, untuk mengantisipasi interaksi antarobat.",
+          "Beri tahu dokter jika sedang hamil, menyusui, atau merencanakan kehamilan.",
+          "Beri tahu dokter bahwa Anda sedang mengonsumsi cetirizine jika Anda berencana menjalani perawatan gigi atau operasi.",
+          "Jangan mengemudi atau melakukan kegiatan lain yang memerlukan kewaspadaan setelah mengonsumsi cetirizine, karena obat ini dapat menyebabkan kantuk.",
+          "Jangan mengonsumsi minuman beralkohol selama mengonsumsi cetirizine.",
+          "Segera temui dokter jika terjadi reaksi alergi obat atau efek samping yang serius setelah mengonsumsi cetirizine."
+        ]
+      },
+      "dose": [
+        "Dewasa dan anak usia >6 tahun: 5–10 mg, per hari.",
+        "Anak usia 2–6 tahun: 2,5 mg, 1–2 kali sehari atau 5 mg 1 kali sehari. Dosis maksimal adalah 5 mg per hari."
+      ],
+      "effect": [
+        "Kantuk",
+        "Kelelahan",
+        "Mulut kering",
+        "Sakit perut, terutama pada anak-anak",
+        "Mual",
+        "Pusing atau sakit kepala",
+        "Batuk atau sakit tenggorokan",
+        "Sembelit"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Paracetamol (Acetaminophen)",
+      "image": "https://d2qjkwm11akmwu.cloudfront.net/products/665462_20-3-2023_14-10-30.png",
+      "detail": "Paracetamol adalah obat untuk meredakan demam dan nyeri. Keluhan nyeri yang bisa diobati dengan paracetamol antara lain sakit kepala, nyeri haid, sakit gigi, atau pegal-pegal. Obat ini umumnya bisa dibeli bebas tanpa resep dokter.\n\nParacetamol diketahui dapat bekerja langsung pada pusat pengaturan suhu tubuh dan rasa sakit yang ada di otak. Dengan begitu, keluhan demam atau rasa sakit bisa cepat mereda. Obat analgesik antipiretik ini juga minim efek samping sehingga bisa menjadi pilihan pertama yang aman untuk demam dan nyeri.\n\nParacetamol dapat ditemukan dalam sediaan obat minum (tablet, sirop, dan tetes), infus, atau rektal (enema dan supositoria). Beberapa sediaan paracetamol ada yang dikombinasikan dengan obat lain, seperti dekongestan, antitusif, kafein, dan propyphenazone.",
+      "benefit": "Meredakan demam dan nyeri",
+      "groups": "Obat resep dan obat bebas",
+      "category": [
+        "Analgesik",
+        "Antipiretik"
+      ],
+      "consumed": "Dewasa dan anak-anak",
+      "form": [
+        "Tablet",
+        "sirop",
+        "drops (tetes)",
+        "infus"
+      ],
+      "forMother": {
+        "pregnant": "Paracetamol minum umumnya aman untuk digunakan oleh ibu hamil. Namun, sebaiknya tetap konsultasikan kepada dokter mengenai dosis yang tepat untuk ibu hamil.",
+        "breastfeeding": "Paracetamol aman untuk digunakan oleh ibu menyusui, selama sesuai dengan aturan pakai produk atau anjuran dokter."
+      },
+      "trademark": [
+        "Alphamol",
+        "Hufagesic",
+        "Farmadol",
+        "Mixagrip Flu",
+        "Naprex",
+        "Novagesic",
+        "Panadol",
+        "Paramex SK",
+        "Dapyrin",
+        "Paramol",
+        "Dumin",
+        "Sanmol",
+        "Praxion",
+        "Sumagesic",
+        "Propyretic Suppositoria",
+        "Tempra",
+        "Pyrexin",
+        "Termorex",
+        "Pyrexin Supositoria",
+        "Pamol",
+        "Panadol Anak"
+      ],
+      "beforeConsuming": {
+        "detail": "",
+        "point": [
+          "Beri tahu dokter mengenai riwayat alergi yang Anda miliki. Paracetamol tidak boleh digunakan oleh orang yang alergi terhadap obat ini.",
+          "Informasikan kepada dokter jika Anda pernah atau sedang menderita penyakit ginjal atau penyakit liver, termasuk hepatitis atau sirosis.",
+          "Beberapa produk paracetamol sirop mengandung gula atau pemanis tambahan. Perhatikan kandungan produk obat ini jika akan menggunakannya, terutama jika Anda menderita diabetes atau fenilketonuria.",
+          "Jangan mengonsumsi minuman beralkohol selama menjalani terapi dengan paracetamol. Hal ini dapat meningkatkan risiko terjadinya kerusakan hati.",
+          "Beri tahu dokter jika Anda mengonsumsi minuman beralkohol setiap hari atau menderita kecanduan alkohol.",
+          "Jangan memberikan paracetamol kepada anak usia di bawah 2 tahun kecuali atas saran dokter.",
+          "Informasikan kepada dokter jika Anda hamil, menyusui, atau sedang merencanakan kehamilan.",
+          "Pastikan untuk memberi tahu dokter jika Anda sedang minum obat lain, termasuk suplemen dan produk herbal. Tujuannya adalah untuk menghindari interaksi obat yang tidak diinginkan.",
+          "Segera ke dokter jika Anda mengalami reaksi alergi obat atau efek samping yang serius setelah menggunakan paracetamol."
+        ]
+      },
+      "dose": [
+        "Dewasa: 500–1.000 mg, diberikan setiap 4–6 jam sekali. Dosis maksimal 4.000 mg per hari. ",
+        "Bayi usia 3–5 bulan: 60 mg",
+        "Bayi usia 6–23 bulan: 120 mg",
+        "Anak usia 2–3 tahun: 180 mg",
+        "Anak usia 4–5 tahun: 240 mg",
+        "Anak usia 6–7 tahun: 240–250 mg",
+        "Anak usia 8–9 tahun: 360–375 mg",
+        "Anak usia 10–11 tahun: 480–500 mg",
+        "Anak usia 12–15 tahun: 480–750 mg",
+        "Anak usia ≥16 tahun: 500–1.000 mg"
+      ],
+      "effect": [
+        "Sakit kepala",
+        "Mual atau muntah",
+        "Sulit tidur",
+        "Memar atau perdarahan yang tidak biasa",
+        "Perut bagian atas kanan terasa sakit",
+        "Urine berwarna gelap",
+        "Feses berwarna seperti tanah liat (abu-abu pucat)",
+        "Penyakit kuning"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Aluminium hidroksida",
+      "image": "https://e-katalog.lkpp.go.id/katalog/produk/download/gambar/7657487?file_name=1515574565076.jpg&v=3&file_sub_location=produk_gambar%2F2018%2F01%2F10",
+      "detail": "Aluminium hidroksida adalah obat untuk mengatasi gejala yang muncul akibat produksi asam lambung yang berlebih, seperti nyeri ulu hati, heartburn, perut kembung, atau mual. Obat ini dapat diperoleh dengan atau tanpa resep dokter.\n\nAluminium hidroksida merupakan obat golongan antasida. Obat ini bekerja dengan cara menetralisir asam lambung. Dengan begitu, dinding lambung dapat terlindung dari iritasi akibat asam lambung yang berlebih dan gejala yang diakibatkannya pun akan berkurang.\n\nAluminium hidroksida biasanya dikombinasikan dengan obat antasida lainnya. Agar efektivitasnya dalam mengatasi gejala asam lambung meningkat, obat ini juga kadang dikombinasikan dengan obat jenis lain, seperti famotidine atau simethicone.",
+      "benefit": "Menetralisir asam lambung yang berlebihan",
+      "groups": "Obat Bebas",
+      "category": [
+        "Antasida"
+      ],
+      "consumed": "Dewasa",
+      "form": [
+        "Tablet",
+        "Suspensi"
+      ],
+      "forMother": {
+        "pregnant": "Umumnya, antasida seperti aluminium hidroksida bisa digunakan untuk mengatasi asam lambung berlebih pada ibu hamil.\nNamun, obat ini hanya boleh digunakan seperlunya dan dibatasi. Ibu hamil harus berkonsultasi dengan dokter terlebih dahulu sebelum minum obat ini.",
+        "breastfeeding": "Aluminium hidroksida hanya terserap dalam jumlah sedikit ke dalam ASI. Obat ini aman dikonsumsi oleh ibu menyusui."
+      },
+      "trademark": [
+        "Acitral",
+        "Antasida Doen",
+        "Alumy",
+        "Atmacid",
+        "Berlosid",
+        "Biomag MPS",
+        "Gastrucid",
+        "Gestamag",
+        "Lagesil",
+        "Mylanta Chew & Melts Rasa Mint",
+        "Plantacid Forte",
+        "Lexacrol",
+        "Polysilane",
+        "Polycrol Chew Tablet",
+        "Stromag",
+        "Triocid",
+        "Ticomag"
+      ],
+      "beforeConsuming": {
+        "detail": "Meski aluminium hidroksida umumnya bisa dibeli bebas, ada beberapa hal yang perlu diperhatikan",
+        "point": [
+          "Beri tahu dokter tentang riwayat alergi yang Anda miliki. Aluminium hidroksida tidak boleh dikonsumsi oleh pasien yang alergi terhadap obat ini.",
+          "Beri tahu dokter jika Anda sedang atau pernah mengalami perdarahan saluran cerna, batu ginjal, gangguan fungsi ginjal, gangguan fungsi hati, atau gagal jantung.",
+          "Informasikan kepada dokter jika Anda sedang atau pernah mengalami kekurangan fosfat dalam darah (hipofosfatemia). Beri tahu juga jika terdapat kondisi yang mengharuskan Anda membatasi asupan fosfat atau natrium.",
+          "Beri tahu dokter jika Anda sedang mengalami porfiria akut, dehidrasi, atau sembelit.",
+          "Beri tahu dokter jika Anda sedang hamil atau sedang merencanakan kehamilan.",
+          "Jangan menggunakan obat ini lebih dari 2 minggu tanpa arahan dari dokter.",
+          "Beri tahu dokter jika Anda sedang menggunakan obat lain, termasuk suplemen dan produk herbal, untuk menghindari interaksi obat yang tidak diinginkan.",
+          "Segera ke dokter jika terjadi reaksi alergi obat atau efek samping serius setelah mengonsumsi aluminium hidroksida."
+        ]
+      },
+      "dose": [
+        "Dewasa: 300–1.000 mg suspensi setiap setelah makan dan sebelum tidur, atau menurut anjuran dokter."
+      ],
+      "effect": [
+        "Hilang nafsu makan",
+        "Perut sangat sakit",
+        "Tidak bisa buang angin",
+        "Nyeri saat buang air kecil",
+        "Lesu atau otot terasa lemah untuk bergerak",
+        "Kantuk berat",
+        "BAB berdarah atau hitam dan kental seperti aspal",
+        "Muntah yang menyerupai ampas kopi"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Captopril",
+      "image": "https://res-2.cloudinary.com/dk0z4ums3/image/upload/c_scale,h_500,w_500/v1/production/pharmacy/products/1702606711_captopril_hexpharm_50mg_tablet-removebg-preview",
+      "detail": "Captopril adalah obat untuk menangani hipertensi, gagal jantung, dan penyakit ginjal akibat diabetes (nefropati diabetik). Obat ini bisa digunakan sebagai obat tunggal atau dikombinasikan dengan obat lain, seperti diuretik. Captopril juga dapat dimanfaatkan untuk mendukung pemulihan setelah serangan jantung.\n\nCaptopril bekerja dengan menghambat pembentukan angiotensin II, yaitu hormon yang berfungsimenyempitkan pembuluh darah. Cara kerja ini akan melebarkan pembuluh darah sehingga aliran darah lebih lancar, tekanan darah menurun, dan kerja jantung dalam memompa darah menjadi lebih ringan.\n\nCara kerja tersebut juga akan mengurangi beban kerja ginjal dalam menyaring air yang ada di dalam tubuh. Dengan begitu, captopril bisa memberi efek perlindungan terhadap ginjal penderita diabetes. Pada diabetes, ginjal akan bekerja lebih keras dan rentan mengalami kerusakan.",
+      "benefit": "Mengatasi hipertensi dan gagal jantung, Mencegah komplikasi setelah serangan jantung, Menangani nefropati diabetik",
+      "groups": "Obat resep",
+      "category": [
+        "Antihipertensi",
+        "ACE inhibitor"
+      ],
+      "consumed": "Dewasa dan anak-anak",
+      "form": [
+        "Tablet"
+      ],
+      "forMother": {
+        "pregnant": "Ada bukti bahwa kandungan obat berisiko terhadap janin manusia, tetapi besarnya manfaat yang diperoleh mungkin lebih besar dari risikonya, misalnya untuk mengatasi situasi yang mengancam jiwa.",
+        "breastfeeding": "Captopril terserap ke dalam ASI. Bila Anda sedang menyusui, jangan mengonsumsi obat ini tanpa arahan dari dokter."
+      },
+      "trademark": [
+        "Acepress",
+        "Captopril",
+        "Dexacap",
+        "Etapril",
+        "Farmoten",
+        "Forten",
+        "Prix",
+        "Tensicap",
+        "Vapril"
+      ],
+      "beforeConsuming": {
+        "detail": "Captopril tidak boleh digunakan sembarangan dan harus sesuai resep dokter.",
+        "point": [
+          "Beri tahu dokter tentang riwayat alergi yang Anda miliki. Captopril tidak boleh dikonsumsi oleh orang yang alergi terhadap obat ini atau obat golongan ACE inhibitorlain, seperti lisinopril, ramipril, dan perindopril.",
+          "Beri tahu dokter jika Anda memiliki riwayat angioedema, terutama yang terjadi setelah mengonsumsi obat golongan ACE inhibitor.",
+          "Beri tahu dokter jika Anda menderita lupus, penyakit ginjal, gangguan elektrolit, penyakit liver, diabetes, kelainan pada jantung atau pembuluh darah jantung, penyakit arteri perifer, atau penyakit pada jaringan ikat, seperti sindrom Marfan, sindrom Sjogren, dan skleroderma.",
+          "Beri tahu dokter jika Anda menderita penyakit ginjal atau diabetes dan menjalani pengobatan dengan aliskiren. Captopril tidak boleh digunakan pada kondisi ini.",
+          "Beri tahu dokter jika Anda sedang menjalani prosedur cuci darah (hemodialisis) atau pernah menjalani transplantasi organ.",
+          "Konsultasikan mengenai penggunaan captopril ke dokter jika Anda menderita dehidrasi atau kondisi yang menyebabkan dehidrasi, seperti diare atau muntah terus menerus, baik sebelum maupun selama mengonsumsi captopril.",
+          "Jangan langsung berkendara atau melakukan aktivitas lain yang memerlukan kewaspadaan setelah mengonsumsi captopril, karena obat ini dapat menyebabkan pusing.",
+          "Beri tahu dokter jika Anda sedang hamil, mungkin hamil, berencana untuk hamil, atau sedang menyusui. Captopril tidak disarankan untuk ibu hamil, terutama pada trimester 2 dan 3.",
+          "Beri tahu dokter mengenai semua obat antihipertensi yang Anda gunakan sebelum captopril. Informasikan juga ke dokter jika sedang menggunakan obat lain, termasuk suplemen atau produk herbal, guna mengantisipasi interaksi obat.",
+          "Beri tahu dokter bahwa Anda sedang menggunakan captopril sebelum menjalani tindakan medis apa pun, termasuk operasi gigi.",
+          "Segera ke dokter jika Anda mengalami reaksi alergi obat atau efek samping serius setelah mengonsumsi captopril."
+        ]
+      },
+      "dose": [
+        "Dewasa:Dosis awal 12,5–25 mg, 2 kali sehari. Dosis dapat ditingkatkan hingga 50–75 mg per hari, 2 kali sehari setelah 2 minggu pengobatan.",
+        "Anak-anak: Dosis awal 0,3 mg/kgBB per hari, dibagi ke dalam 3 kali pemberian.",
+        "Anak usia <1 tahun: Dosisnya 0,15 mg/kgBB per hari, dibagi ke dalam 3 kali pemberian.",
+        "Lansia: Dosis awal 6,25 mg, 2 kali sehari. Dosis dapat ditingkatkan tergantung pada tekanan darah pasien."
+      ],
+      "effect": [
+        "Pusing atau kepala terasa ringan seperti melayang",
+        "Rasa logam atau asin di mulut, dan rasa makanan jadi berkurang",
+        "Denyut jantung cepat atau jantung berdebar",
+        "Tubuh terasa sangat lelah",
+        "Kemerahan dan ensasi hangat di wajah, leher, atau dada (flushing)",
+        "Batuk kering",
+        "Ruam atau gatal",
+        "Rasa panas, kesemutan, atau malah mati rasa di tangan atau kaki"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Digoxin",
+      "image": "https://e-katalog.lkpp.go.id/katalog/produk/download/gambar/973379109?file_name=75247139727280.jpg",
+      "detail": "Digoxin adalah obat untuk mengatasi gangguan irama jantung (aritmia), misalnya atrial fibrasi (AF). Selain itu, obat ini juga bisa digunakan untuk menangani gagal jantung. Digoxin tersedia dalam bentuk tablet dan suntik.\n\nDigoxin merupakan obat glikosida jantung yang bekerja dengan cara memengaruhi beberapa jenis mineral, yaitu natrium dan kalium di dalam sel-sel jantung. Cara kerja ini akan mengurangi beban kerja jantung, membantu mengembalikan irama jantung menjadi normal dan stabil, serta memperkuat detak jantung.",
+      "benefit": "Mengobati aritmia dan gagal jantung",
+      "groups": "Obat resep",
+      "category": [
+        "Antiaritmia"
+      ],
+      "consumed": "Dewasa dan anak-anak",
+      "form": [
+        "Tablet",
+        "Suntik"
+      ],
+      "forMother": {
+        "pregnant": "Obat hanya boleh digunakan jika besarnya manfaat yang diharapkan melebihi besarnya risiko terhadap janin.",
+        "breastfeeding": "Digoxin terserap ke dalam ASI. Bila Anda sedang menyusui, jangan menggunakan obat ini tanpa berkonsultasi dulu dengan dokter."
+      },
+      "trademark": [
+        "Digoxin",
+        "Fargoxin"
+      ],
+      "beforeConsuming": {
+        "detail": "Digoxin merupakan obat resep yang tidak boleh digunakan sembarangan.",
+        "point": [
+          "Beri tahu dokter tentang riwayat alergi yang Anda miliki. Digoxin tidak boleh diberikan kepada pasien yang alergi terhadap obat ini.",
+          "Jangan langsung melakukan aktivitas yang membutuhkan kewaspadaan, seperti mengemudikan kendaraan atau mengoperasikan alat berat setelah menggunakan digoxin, jika obat ini menyebabkan pusing dan penglihatan kabur pada Anda.",
+          "Beri tahu dokter jika Anda pernah atau sedang menderita ventrikel fibrilasi, kardiomiopati, amiloidosis jantung, perikarditis, aritmia karena obat jantung tertentu, atau blok atrioventrikular, terutama jika memiliki riwayat penyakit sindrom Stokes-Adams.",
+          "Konsultasikan dengan dokter perihal penggunaan digoxin pada lansia dan anak-anak untuk menghindari risiko terjadinya efek samping yang serius.",
+          "Beri tahu dokter jika Anda pernah atau sedang menderita serangan jantung, sick sinus syndrome, miokarditis, penyakit ginjal, penyakit tiroid, gangguan pernapasan, gangguan pembuluh darah, atau sindrom malabsorbsi.",
+          "Beri tahu dokter jika Anda pernah mengalami ketidakseimbangan elektrolit, terutama hipokalemia, hipokalsemia, hiperkalsemia, atau hipomagnesemia.",
+          "Beri tahu dokter bahwa Anda sedang menggunakan digoxin sebelum menjalani operasi atau tindakan medis tertentu, termasuk tindakan medis pada jantung.",
+          "Beri tahu dokter jika Anda sedang menggunakan obat lain, termasuk suplemen dan produk herbal, untuk mengantisipasi interaksi obat.",
+          "Beri tahu dokter jika Anda sedang hamil, menyusui, atau merencanakan kehamilan.",
+          "Jangan mengonsumsi minuman beralkohol selama menjalani pengobatan dengan digoxin, karena dapat meningkatkan risiko terjadinya efek samping.",
+          "Minum air yang cukup dan hindari dehidrasi selama menjalani pengobatan dengan digoxin untuk mencegah risiko terjadinya efek samping.",
+          "Segera ke dokter jika Anda mengalami reaksi alergi obat, efek samping yang serius, atau overdosis setelah menggunakan digoxin."
+        ]
+      },
+      "dose": [
+        "Dewasa: dosis awal adalah 750–1.500 mcg (0,75–1,5 mg) yang diberikan dalam 24 jam pertama sebagai dosis tunggal. Dosis awal dapat diberikan dalam dosis terbagi setiap 6 jam jika kondisi tidak terlalu berbahaya. Dosis pada pasien yang mengalami gagal jantung ringan adalah 250–750 mcg (0,25–0,75 mg) tiap hari selama 1 minggu. Dosis pemeliharaan umumnya adalah adalah 0,125–0,25 mg per hari.",
+        "Bayi prematur dengan BB <1,5 kg: dosis awal adalah 25 mcg/kgBB per hari.",
+        "Bayi prematur dengan BB 1,5–2,5 kg: dosis awal adalah 30 mcg/kgBB per hari.",
+        "Bayi usia 0–24 bulan: dosis awal adalah 45 mcg/kgBB per hari.",
+        "Anak usia >2–5 tahun: dosis awal adalah 35 mcg/kgBB per hari.",
+        "Anak usia >5–10 tahun: dosis awal adalah 25 mcg/kgBB per hari."
+      ],
+      "effect": [
+        "Muntah",
+        "Hilang nafsu makan",
+        "Mual",
+        "Sakit kepala",
+        "Tubuh terasa lemah atau pusing",
+        "Diare",
+        "Cemas",
+        "Depresi"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Amoxicillin",
+      "image": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/05/13090017/amoxilin.jpg",
+      "detail": "Amoxicillin adalah obat antibiotik yang digunakan untuk mengatasi berbagai penyakit akibat infeksi bakteri, seperti infeksi telinga, tonsilitis, atau bronkitis. Obat ini hanya boleh digunakan berdasarkan resep dokter.\n\nAmoxicillin bekerja dengan cara menghambat pembentukan dinding sel bakteri sehingga bakteri penyebab infeksi akan mati.\n\nAmoxicilin tidak bisa digunakan untuk mengatasi infeksi virus, seperti flu atau mononukleosis. Bahkan, penggunaan amoxicillin untuk infeksi mononukleosis dapat menyebabkan efek samping ruam di seluruh tubuh.",
+      "benefit": "Mengatasi infeksi bakteri, termasuk gonore, otitis media, atau infeksi ginjal (pielonefritis)",
+      "groups": "Obat resep",
+      "category": [
+        "Antibiotik",
+        "penicillin"
+      ],
+      "consumed": "Dewasa dan anak-anak",
+      "form": [
+        "Tablet",
+        "sirop",
+        "kapsul",
+        "suntik"
+      ],
+      "forMother": {
+        "pregnant": " Jika Anda sedang hamil, konsultasikan dengan dokter mengenai penggunaan obat ini.",
+        "breastfeeding": "Amoxicillin dapat terserap ke dalam ASI. Bila Anda sedang menyusui, jangan menggunakan obat ini tanpa persetujuan dokter."
+      },
+      "trademark": [
+        "Amoxicillin Hexapharm",
+        "Amobiotic",
+        "Amosterra",
+        "Amoxicillin Indofarma/Kimia Farma",
+        "Amoxicillin Trihydrate",
+        "Amoxsan",
+        "Betamox",
+        "Clamixin",
+        "Dexyclav Forte",
+        "Erlamoxy",
+        "Etamox",
+        "Holimox",
+        "Hufanoxil",
+        "Omemox",
+        "Pehamoxil",
+        "Pritamox",
+        "Supramox",
+        "Topcillin"
+      ],
+      "beforeConsuming": {
+        "detail": "Penggunaan amoxicillin yang tidak tepat sasaran bisa menyebabkan efek samping yang merugikan Anda. Pastikan untuk berkonsultasi dengan dokter sebelum menggunakan amoxicillin untuk memastikan obat ini tepat untuk Anda.",
+        "point": [
+          "Beri tahu dokter tentang riwayat alergi yang Anda miliki. Amoxicillin tidak boleh diberikan kepada pasien yang alergi terhadap obat ini atau antibiotik golongan penisilin lain, seperti ampicilin.",
+          "Beri tahu dokter jika Anda mengalami sakit tenggorokan dan pembengkakan kelenjar getah bening yang tidak membaik setelah 1–2 minggu, bahkan dengan pengobatan. Beri tahu pula jika ada kemungkinan Anda tertular mononukleosis dari orang di sekitar Anda.",
+          "Beri tahu dokter jika Anda memiliki penyakit ginjal, asma, rhinitis alergi, kelainan darah, atau riwayat diare akibat penggunaan antibiotik.",
+          "Beri tahu dokter mengenai konsumsi amoxicillin jika Anda direncanakan untuk menjalani vaksinasi dengan vaksin bakteri hidup, seperti vaksin tifoid, karena obat ini bisa menurunkan efektivitas vaksin tersebut.",
+          "Beri tahu dokter jika Anda sedang hamil, menyusui, atau merencanakan kehamilan.",
+          "Beri tahu dokter jika Anda sedang menunda kehamilan dengan pil KB, karena obat ini dapat menurunkan efektivitas pil KB.",
+          "Beri tahu dokter jika Anda sedang mengonsumsi obat, suplemen, atau produk herbal tertentu, untuk mengantisipasi terjadinya interaksi antarobat.",
+          "Segera ke dokter jika terjadi reaksi alergi obat atau efek samping yang serius setelah menggunakan amoxicillin."
+        ]
+      },
+      "dose": [
+        "Dewasa dan anak dengan BB ≥40 kg: 250–500 mg, tiap 8 jam atau 500–1.000 mg, tiap 12 jam. Untuk infeksi berat dosisnya adalah 750–1.000 mg, tiap 8 jam.",
+        "Anak usia >3 bulan dengan BB <40 kg: 20–90 mg/kgBB per hari."
+      ],
+      "effect": [
+        "Perubahan rasa pada lidah",
+        "Mual atau muntah",
+        "Sakit kepala",
+        "Diare",
+        "Ruam"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Warfarin",
+      "image": "https://e-katalog.lkpp.go.id/katalog/produk/download/gambar/949976766?file_name=25976527897600780.jpg",
+      "detail": "Warfarin bermanfaat untuk mencegah atau mengatasi bekuan darah yang bisa menyebabkan sumbatan pada pembuluh darah. Obat ini harus dikonsumsi secara rutin dan dalam pengawasan dokter.\n\nWarfarin bekerja dengan menghambat kerja vitamin K, yang merupakan salah satu faktor penting dalam proses pembekuan darah. Obat ini digunakan dalam pengobatan emboli paru, stroke ringan (transient ischemic attack/TIA), atau penyumbatan pembuluh darah vena akibat bekuan darah (trombosis vena).\n\nWarfarin juga digunakan untuk mencegah timbulnya penyumbatan pembuluh darah maupun emboli pada orang yang berisiko tinggi mengalaminya, seperti penderita penyakit jantung rematik, seseorang dengan katup jantung buatan, atau penderita atrial fibrilasi.",
+      "benefit": "Mencegah dan mengatasi penggumpalan darah",
+      "groups": "Obat resep",
+      "category": [
+        "Antikoagulan"
+      ],
+      "consumed": "Dewasa",
+      "form": [
+        "Tablet"
+      ],
+      "forMother": {
+        "pregnant": "Obat dalam kategori ini tidak boleh digunakan oleh wanita yang sedang atau memiliki kemungkinan untuk hamil. Ada bukti bahwa kandungan obat berisiko terhadap janin manusia, tetapi besarnya manfaat yang diperoleh mungkin lebih besar daripada risikonya, misalnya untuk mengatasi situasi yang mengancam nyawa.",
+        "breastfeeding": "Warfarin dapat sedikit terserap ke dalam ASI. Konsultasikan penggunaan warfarin dengan dokter jika Anda sedang menyusui."
+      },
+      "trademark": [
+        "Simarc 2",
+        "Notisil 5",
+        "Notisil 2",
+        "Warfarin",
+        "Warfarin Sodium Clathrate"
+      ],
+      "beforeConsuming": {
+        "detail": "",
+        "point": [
+          "Jangan mengonsumsi warfarin jika Anda alergi terhadap obat ini.",
+          "Beri tahu dokter jika Anda pernah atau sedang menderita gangguan pembuluh darah seperti aneurisma, kecanduan minuman beralkohol, gangguan mental atau suasana hati, gangguan ingatan, penyakit hati, atau penyakit ginjal.",
+          "Beri tahu dokter jika Anda pernah atau sedang menderita kelainan darah seperti anemia atau hemofilia, atau gangguan perdarahan, seperti perdarahan saluran cerna atau otak.",
+          "Beri tahu dokter jika Anda baru menjalani operasi, baru mengalami cedera berat, sering jatuh, atau sering cedera.",
+          "Beri tahu dokter jika Anda sedang atau akan mengonsumsi obat, suplemen, atau produk herbal lain, untuk mengantisipasi interaksi antarobat.",
+          "Beri tahu dokter Anda jika saat pengobatan dengan warfarin Anda kehilangan selera makan atau mengalami demam, muntah, atau diare selama >2 hari. Jika Anda akan diberikan antibiotik oleh dokter lain, beri tahu dokter tersebut bahwa Anda sedang mengonsumsi warfarin.",
+          "Jangan mengonsumsi minuman beralkohol saat menjalani pengobatan dengan warfarin, karena dapat meningkatkan risiko Anda mengalami perdarahan lambung.",
+          "Beri tahu dokter atau petugas medis bahwa Anda sedang mengonsumsi warfarin jika Anda direncanakan untuk mendapatkan suntikan ke dalam otot, misalnya untuk vaksin. Pastikan suntikan ke otot diberikan ke lengan agar kemungkinan terjadinya perdarahan dapat diantisipasi dengan lebih baik.",
+          "Hindari aktivitas seperti olahraga dengan kontak fisik yang keras. Hati-hati saat melakukan aktivitas dengan benda tajam atau yang berisiko menyebabkan perdarahan, seperti menggunting kuku, bercukur atau menyikat gigi.",
+          "Beri tahu dokter bahwa Anda sedang mengonsumsi warfarin jika Anda direncanakan untuk menjalani operasi, termasuk operasi gigi.",
+          "Gunakan kondom atau alat kontrasepsi lain untuk mencegah kehamilan, sejak mulai mengonsumsi warfarin hingga 1 bulan sesudah penggunaan obat, karena obat ini dapat meningkatkan risiko terjadinya kecacatan janin.",
+          "Segera ke dokter jika terjadi reaksi alergi obat atau efek samping yang serius, setelah menggunakan warfarin."
+        ]
+      },
+      "dose": [
+        "Dosis awal warfarin adalah 5–10 mg per hari, selama 1–2 hari pertama. Dosis perawatan 3–9 mg per hari, tergantung hasil tes darah saat evaluasi rutin."
+      ],
+      "effect": [
+        "Mual",
+        "Kehilangan selera makan",
+        "Sakit perut atau abdomen",
+        "Ruam kulit ringan",
+        "Rambut rontok",
+        "Gusi berdarah sesudah menyikat gigi",
+        "Tubuh mudah memar, dan memar butuh waktu lebih lama untuk memudar",
+        "Mimisan (tidak sering dan berlangsung <10 menit)",
+        "Perdarahan akibat terluka agak lebih lama untuk berhenti",
+        "Darah menstruasi lebih banyak atau durasi haid lebih panjang daripada biasanya"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Itraconazole",
+      "image": "https://res-5.cloudinary.com/dk0z4ums3/image/upload/c_scale,h_500,w_500/v1/production/pharmacy/products/1660920890_62a1871ff15ee840f565e759",
+      "detail": "Itraconazole adalah obat untuk mengatasi infeksi jamur di berbagai bagian dan area tubuh. Obat ini juga dapat digunakan untuk mencegah infeksi jamur pada seseorang dengan sistem imun yang lemah, misalnya akibat HIV/AIDS atau proses kemoterapi.\n\nItraconazole bekerja dengan cara menghambat pembentukan membran dinding sel jamur dan memperlambat pertumbuhannya. Cara kerja ini membuat itraconazole bisa digunakan untuk mengatasi beragam penyakit akibat infeksi jamur, termasuk blastomycosis, histoplasmosis, atau aspergillosis.",
+      "benefit": "Mengobati infeksi jamur",
+      "groups": "Obat resep",
+      "category": [
+        "Anrijamur",
+        "azole"
+      ],
+      "consumed": "Dewasa",
+      "form": [
+        "Kapsul"
+      ],
+      "forMother": {
+        "pregnant": "Obat hanya boleh digunakan jika besarnya manfaat yang diharapkan melebihi besarnya risiko terhadap janin.",
+        "breastfeeding": "Itraconazole terserap ke dalam ASI. Konsultasikan ke dokter perihal penggunaan itraconazole jika Anda sedang menyusui."
+      },
+      "trademark": [
+        "Fungitrazol",
+        "Forcanox",
+        "Itzol",
+        "Itraconazole",
+        "Nufatrac",
+        "Sporacid",
+        "Sporanox",
+        "Spyrocon",
+        "Trachon",
+        "Tracor"
+      ],
+      "beforeConsuming": {
+        "detail": "Itraconazole hanya boleh digunakan berdasarkan resep dokter. ",
+        "point": [
+          "Jangan mengonsumsi itraconazole bila Anda alergi terhadap obat ini, atau obat antijamur golongan azole lainnya, seperti fluconazole atau ketoconazole.",
+          "Beri tahu dokter jika Anda sedang menderita gagal jantung atau gagal ginjal. Itraconazole sebaiknya tidak digunakan pada pasien dengan kondisi tersebut.",
+          "Jangan mengonsumsi minuman beralkohol selama menjalani pengobatan dengan itraconazole karena dapat meningkatkan risiko terjadinya kerusakan hati.",
+          "Beri tahu dokter jika Anda pernah atau sedang menderita penyakit liver, penyakit ginjal, cystic fibrosis, penyakit paru obstruktif kronis (PPOK), penyakit jantung, HIV/AIDS, gangguan produksi asam lambung, porfiria, atau pernah menjalani transplantasi organ.",
+          "Jangan langsung melakukan aktivitas yang membutuhkan kewaspadaan setelah mengonsumsi itraconazole, seperti mengemudikan kendaraan, jika obat ini menyebabkan Anda pusing.",
+          "Beri tahu dokter jika Anda sedang hamil, berencana untuk hamil, atau sedang menyusui. Gunakan alat kontrasepsi yang paling efektif bagi Anda untuk mencegah kehamilan, selama mengonsumsi itraconazole sampai 2 bulan setelah pengobatan selesai.",
+          "Beri tahu dokter bahwa Anda sedang mengonsumsi itraconazole sebelum menjalani perawatan gigi atau operasi.",
+          "Beri tahu dokter jika Anda sedang menggunakan obat lain, termasuk suplemen dan produk herbal, untuk mengantisipasi interaksi obat yang tidak diinginkan.",
+          "Segera ke dokter jika muncul reaksi alergi obat atau overdosis setelah mengonsumsi itraconazole."
+        ]
+      },
+      "dose": [
+        "Infeksi jamur yang memengaruhi beberapa organ tubuh (sistemik)\nDosisnya adalah 100–200 mg, 1 kali sehari, selama 3 minggu hingga 7 bulan. Dosis dapat ditingkatkan sampai 200 mg, 2 kali sehari, untuk infeksi jamur yang berat hingga mengancam nyawa."
+      ],
+      "effect": [
+        "Mual, muntah, sakit perut, kembung, atau heartburn",
+        "Sakit kepala, pusing, kantuk, lemas",
+        "Diare atau justru sembelit",
+        "Nyeri otot atau nyeri sendi",
+        "Gusi berdarah",
+        "Pusing",
+        "Hidung meler dan gejala pilek lainnya",
+        "Gairah seks menurun"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Lamivudine",
+      "image": "https://e-katalog.lkpp.go.id/katalog/produk/download/gambar/937250815?file_name=9121961947939687.jpg",
+      "detail": "Lamivudine adalah obat untuk menangani hepatitis B atau infeksi HIV. Perlu diketahui bahwa obat ini hanya bisa memperlambat perkembangan penyakit, tetapi tidak dapat menyembuhkan atau mencegah penularan hepatitis B atau infeksi HIV.\n\nLamivudine termasuk dalam obat golongan antivirus. Obat ini bekerja dengan cara memblokir enzim yang berperan dalam perkembangbiakan virus. Alhasil, viral load (jumlah virus) di dalam tubuh akan berkurang dan perkembangan penyakit dapat diperlambat.\n\nDalam penanganan HIV, lamivudine akan dikombinasikan bersama obat lain.",
+      "benefit": "Mengatasi infeksi virus hepatitis B dan HIV",
+      "groups": "Obat resep",
+      "category": [
+        "Antivirus"
+      ],
+      "consumed": "Dewasa dan anak-anak",
+      "form": [
+        "Tablet"
+      ],
+      "forMother": {
+        "pregnant": "Obat ini hanya boleh digunakan jika besarnya manfaat yang diharapkan melebihi besarnya risiko terhadap janin.",
+        "breastfeeding": "Lamivudine umumnya aman digunakan oleh ibu menyusui karena tidak menimbulkan efek samping yang serius pada ibu dan bayi."
+      },
+      "trademark": [
+        "3TC",
+        "Heplav",
+        "Hiviral",
+        "Lamivudine",
+        "LMV"
+      ],
+      "beforeConsuming": {
+        "detail": "",
+        "point": [
+          "Beri tahu dokter tentang riwayat alergi yang Anda miliki. Lamivudine tidak boleh diberikan kepada orang yang alergi terhadap obat ini.",
+          "Informasikan kepada dokter jika Anda pernah atau sedang menderita penyakit liver, penyakit ginjal, diabetes, pankreatitis, atau pernah menjalani transplantasi hati.",
+          "Diskusikan ke dokter terkait risiko terjadinya asidosis laktat, yaitu penumpukan asam laktat di dalam tubuh. Konsumsi lamivudine berisiko menyebabkan kondisi tersebut, terutama pada wanita, penderita kondisi medis lain, atau orang yang minum obat HIV dalam jangka panjang.",
+          "Jangan langsung mengemudi atau melakukan aktivitas lain yang memerlukan kewaspadaan setelah mengonsumsi Lamivudine. Obat ini dapat menyebabkan pusing.",
+          "Konsultasikan ke dokter mengenai penggunaan obat ini jika Anda sedang hamil, berencana untuk hamil, atau sedang menyusui.",
+          "Beri tahu dokter jika Anda sedang mengonsumsi obat, suplemen, atau produk herbal tertentu. Tujuannya adalah untuk menghindari terjadinya interaksi obat yang tidak diinginkan.",
+          "Segera ke dokter jika terjadi reaksi alergi obat setelah mengonsumsi lamivudine."
+        ]
+      },
+      "dose": [
+        "Dewasa: 100 mg, 1 kali sehari. Khusus pada pasien yang menderita hepatitis B bersamaan dengan HIV, dosisnya adalah 150 mg 2 kali sehari, atau 300 mg 1 kali sehari.",
+        "Anak usia 2–17 tahun: 3 mg/kgBB, 1 kali sehari. Dosis maksimal adalah 100 mg per hari."
+      ],
+      "effect": [
+        "Batuk, pilek, atau hidung tersumbat",
+        "Sakit kepala",
+        "Pusing",
+        "Mual",
+        "Muntah",
+        "Diare",
+        "Sulit tidur"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Laktulosa",
+      "image": "https://e-katalog.lkpp.go.id/katalog/produk/download/gambar/941239946?file_name=15074573171210489.png",
+      "detail": "Laktulosa adalah obat untuk mengatasi sembelit atau sulit buang air besar. Obat ini juga dapat digunakan untuk menangani dan mencegah ensefalopati hepatik, yaitu kelainan fungsi dan struktur otak akibat komplikasi dari penyakit liver.\n\nLaktulosa dapat mengatasi sembelit dengan cara menarik air ke dalam usus sehingga membuat tinja lebih lunak dan mudah dikeluarkan. Selain itu, obat ini juga dapat mengikat amonia, yaitu zat yang diyakini sebagai racun penyebab ensefalopati hepatik. Amonia yang sudah diikat oleh laktulosa kemudian dikeluarkan dari tubuh melalui feses.",
+      "benefit": "Mengatasi sembelit, Menangani dan mencegah ensefalopati hepatik",
+      "groups": "Obat bebas",
+      "category": [
+        "Pencahar"
+      ],
+      "consumed": "Dewasa dan anak-anak",
+      "form": [
+        "Sirop"
+      ],
+      "forMother": {
+        "pregnant": "Jika Anda sedang hamil, konsultasikan dengan dokter terkait penggunaan obat ini.",
+        "breastfeeding": "Umumnya, laktulosa aman digunakan oleh ibu menyusui, karena obat ini tidak berefek pada produksi ASI dan kesehatan bayi yang menyusu."
+      },
+      "trademark": [
+        "Constipen",
+        "Constuloz",
+        "Dulcolactol",
+        "Duphalac",
+        "Erlac",
+        "Graphalac",
+        "Lacons",
+        "Lactofid",
+        "Lactulax",
+        "Lactulose",
+        "Opilax",
+        "Pralax"
+      ],
+      "beforeConsuming": {
+        "detail": "",
+        "point": [
+          "Jangan mengonsumsi laktulosa jika Anda alergi terhadap obat ini atau laktosa. Selalu beri tahu dokter tentang riwayat alergi yang Anda miliki.",
+          "Beri tahu dokter jika Anda pernah atau sedang menderita diabetes, penyakit Crohn, gangguan dalam mencerna gula (galaktosemia), penyumbatan usus, kolitis ulseratif, atau sedang menjalani diet rendah galaktosa.",
+          "Informasikan kepada dokter bahwa Anda sedang mengonsumsi laktulosa sebelum menjalani prosedur pemeriksaan usus, seperti proktoskopi atau kolonoskopi.",
+          "Diskusikan dengan dokter terkait konsumsi obat ini jika Anda sedang hamil, menyusui, atau merencanakan kehamilan.",
+          "Informasikan kepada dokter jika Anda sedang menggunakan obat lain, termasuk suplemen dan produk herbal, untuk menghindari interaksi obat yang tidak diinginkan.",
+          "Segera periksakan diri ke dokter jika terjadi reaksi alergi obat setelah mengonsumsi laktulosa."
+        ]
+      },
+      "dose": [
+        "Dewasa: Dosis awal 15–45 ml, 1 kali sehari, dapat dibagi menjadi 2 jadwal konsumsi. Dosis pemeliharaan adalah 15–30 ml, 1 kali sehari, atau dapat dibagi menjadi 2 jadwal konsumsi.",
+        "Anak usia <1 tahun: Dosis awal dan pemeliharaan 5 ml, 1 kali sehari, atau dapat dibagi menjadi 2 jadwal konsumsi.",
+        "Anak usia 1–6 tahun: Dosis awal dan pemeliharaan 5–10 ml, 1 kali sehari, dapat dibagi menjadi 2 jadwal konsumsi.",
+        "Anak usia 7–14 tahun: Dosis awal 15 ml per hari, dapat dibagi menjadi 1–2 jadwal konsumsi. Dosis pemeliharaan 10–15 ml per hari, bisa dibagi menjadi 1–2 jadwal konsumsi."
+      ],
+      "effect": [
+        "Diare",
+        "Kembung",
+        "Mual",
+        "Muntah",
+        "Kram perut",
+        "Dehidrasi",
+        "Hipokalemia"
+      ]
+    }
+  ],
+  "reference": [
+    "https://www.alodokter.com/",
+    "https://www.halodoc.com/",
+    "https://e-katalog.lkpp.go.id/"
+  ]
+}
